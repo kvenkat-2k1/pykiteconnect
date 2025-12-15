@@ -181,3 +181,8 @@ $RECYCLE.BIN/
 cov_html
 
 # End of https://www.gitignore.io/api/osx,linux,macos,python,windows
+/.vs/pykiteconnect/CopilotIndices/18.0.955.22606
+/.vs/pykiteconnect.slnx
+/.vs/PythonSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
